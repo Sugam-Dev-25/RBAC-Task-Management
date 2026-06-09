@@ -1,0 +1,15 @@
+[2026-06-09T13:52:36.925Z] User Registered : sugam@gmail.com (Admin)
+[2026-06-09T13:53:36.060Z] User Registered : rimpa@gmail.com (Manager)
+[2026-06-09T13:54:06.538Z] User Registered : prosenjit@gmail.com (Employee)
+[2026-06-09T13:54:14.412Z] User Logged In : sugam@gmail.com (Admin)
+[2026-06-09T13:54:22.978Z] Unauthorized Request: No Valid Bearer Token
+[2026-06-09T13:55:15.755Z] Unauthorized Request: No Valid Bearer Token
+[2026-06-09T13:55:42.301Z] Unauthorized Request: No Valid Bearer Token
+[2026-06-09T13:56:47.214Z] User Logged In : sugam@gmail.com (Admin)
+[2026-06-09T13:57:11.170Z] Unauthorized Request: No Valid Bearer Token
+[2026-06-09T13:57:55.122Z] Unauthorized Request: No Valid Bearer Token
+[2026-06-09T14:02:19.651Z] Record Created : RBAC Project by User 6a281aa4881a6036e16ec1a6
+[2026-06-09T14:04:00.733Z] User Logged In : prosenjit@gmail.com (Employee)
+[2026-06-09T14:04:22.792Z] Record Created : Employee Task by User 6a281afe881a6036e16ec1a8
+[2026-06-09T14:20:31.728Z] Record Deleted : 6a281ceb881a6036e16ec1a9 by User 6a281aa4881a6036e16ec1a6
+[2026-06-09T14:22:28.107Z] Unauthorized Access Attempt | User ID: 6a281afe881a6036e16ec1a8 | Role: Employee | Permission Required: delete_record

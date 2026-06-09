@@ -1,0 +1,20 @@
+{
+  "Admin": [
+    "create_record",
+    "read_record",
+    "update_record",
+    "delete_record",
+    "manage_users"
+  ],
+
+  "Manager": [
+    "create_record",
+    "read_record",
+    "update_record"
+  ],
+
+  "Employee": [
+    "create_record",
+    "read_record"
+  ]
+}
